@@ -136,20 +136,6 @@ datasource/
 
 ---
 
-## Frontend
-
-В проекте также есть простой frontend:
-
-```bash
-src/main/resources/static/
-├── index.html
-└── script.js
-```
-
-Позволяет взаимодействовать с API через браузер.
-
----
-
 ## Project Structure
 
 ```bash
